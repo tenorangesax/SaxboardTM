@@ -1,6 +1,4 @@
 # Saxboard
-<img width="1111" height="702" alt="Saxboard" src="https://github.com/user-attachments/assets/326b8aba-d880-499f-ad0b-ce4df7eab749" />
-
 A custom personalized devboard for me, more on the teaching side for me to understand how the seeeds work and how to basic solder.
 
 **Heres the finished product!!!!!!**
