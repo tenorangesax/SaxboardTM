@@ -3,7 +3,8 @@ A custom personalized devboard for me, more on the teaching side for me to under
 
 **Heres the finished product!!!!!!**
 <img width="1440" height="1440" alt="ezgif com-optimize (2)" src="https://github.com/user-attachments/assets/d5250cc8-23fe-455a-8014-5f3a20a5fc58" />
-
+<img width="3024" height="3024" alt="IMG_7189" src="https://github.com/user-attachments/assets/7abda041-63de-4fdc-98e7-2f3858ee485e" />
+<img width="720" height="720" alt="second" src="https://github.com/user-attachments/assets/75efcb92-df5d-40fd-9e1d-07146227606c" />
 <img width="1111" height="702" alt="Saxboard" src="https://github.com/user-attachments/assets/4904ef70-645a-4bba-9101-3736665798e9" />
 <img width="1111" height="702" alt="Saxboard_BACK" src="https://github.com/user-attachments/assets/4da003e0-b4d6-4e65-b6d8-62e54f19118c" />
 
