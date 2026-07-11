@@ -1,6 +1,10 @@
 # Saxboard
 A custom personalized devboard for me, more on the teaching side for me to understand how the raspberry pi pico boards work and how to do a little basic SMD soldering.
 
+
+**[WORKING VIDEO DEMO!!](https://youtu.be/bMa3YCjVTW8)**
+
+
 **Heres the finished product!!!!!!**
 <img width="1920" height="1920" alt="rgedge" src="https://github.com/user-attachments/assets/860e4860-b279-4903-912d-23783a0766b4" />
 <img width="3024" height="4032" alt="IMG_7200" src="https://github.com/user-attachments/assets/80f1c0e5-8ed7-4c83-93a7-02816d03968b" />
