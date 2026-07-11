@@ -70,7 +70,6 @@ also updated github PICS and README to the final pictures too, and made a gif sl
 Here are the pictures:
 ![IMG_7189](https://stasis.hackclub-assets.com/images/1777132685186-swqf8o.jpeg)
 
-![IMG_7169](https://stasis.hackclub-assets.com/images/1777132684678-6mo3ju.jpeg)
 
 
 
